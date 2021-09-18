@@ -139,10 +139,10 @@ h2{
 @media only screen and (max-width: 375px) {
   .container{
   	height: 35rem;
-	width: 15rem;
+	width: 18rem;
   }
   .sub-content{
-  	width: 14rem;
+  	width: 16rem;
   }
   .payment{
   	padding: 0.6rem 2.5rem;
