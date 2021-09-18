@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [View Code](https://github.com/abhinav-gif/Order-summary-component)
-- Live Site URL: [Preview Site](https://abhinav-gif.github.io/Order-summary-component/)
+- Solution URL: [View Code](https://github.com/abhinav-gif/order-summary-component-FM)
+- Live Site URL: [Preview Site](https://abhinav-gif.github.io/order-summary-component-FM/)
 
 ## My process
 
