@@ -62,8 +62,8 @@ h2{
 
 .container{
 	background-color: white;
-	height: 37rem;
-	width: 20rem;
+	height: 39rem;
+	width: 24rem;
 	border-radius: 20px;
 	display: flex;
 	flex-direction: column;
@@ -97,7 +97,7 @@ h2{
 	align-items: center;
 	background-color: hsl(225, 100%, 98%);
 	border-radius: 10px;
-	width: 18rem;
+	width: 19rem;
 	height: 70px;
 }
 
@@ -110,7 +110,7 @@ h2{
 .payment{
 	text-align: center;
 	background-color: hsl(245, 75%, 52%);
-	padding: 0.6rem 4.2rem;
+	padding: 0.7rem 4.3rem;
 	border-radius: 10px;
 	color: white;
 	margin-top: -30px;
